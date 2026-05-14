@@ -1,2 +1,7 @@
-# Next-Number-Generator-Ultra-Delux
-In this repo you will find a very advanced python code that corectly predicts the next number
+# Next Number Generator Ultra Delux
+
+A highly advanced Supercomputer + alien + wizard-powered number generator developed by Frogmilk.xyz
+
+## How to run:
+```bash:
+python NextNumberGeneratorUltraDelux.py
