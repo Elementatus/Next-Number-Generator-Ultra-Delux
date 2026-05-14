@@ -4,4 +4,4 @@ A highly advanced Supercomputer + alien + wizard-powered number generator develo
 
 ## How to run:
 ```bash:
-python NextNumberGeneratorUltraDelux.py
+python3 NextNumberGeneratorUltraDelux.py
